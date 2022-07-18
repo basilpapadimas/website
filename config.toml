@@ -3,7 +3,7 @@
 # https://gohugo.io/getting-started/configuration #
 ###################################################
 
-baseURL = "https://basilpapadimas.github.io/homepage/" # website root path
+baseURL = "https://basilpapadimas.github.io/website/" # website root path
 enableRobotsTXT = true             # /robots.txt
 languageCode = "en"                # content language
 paginate = 5                       # number of posts each page
