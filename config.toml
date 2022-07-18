@@ -31,7 +31,7 @@ url = "/"
 weight = 1
 [[menu.main]]
 identifier = "archives"
-name = "Posts"
+name = "Blog"
 url = "/post/"
 weight = 2
 
