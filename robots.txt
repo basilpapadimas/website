@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://basilpapadimas.github.io/homepage/sitemap.xml
+Sitemap: https://basilpapadimas.github.io/website/sitemap.xml
