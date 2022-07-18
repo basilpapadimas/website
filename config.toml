@@ -3,7 +3,7 @@
 # https://gohugo.io/getting-started/configuration #
 ###################################################
 
-baseURL = "https://basilpapadimas.github.io/website/" # website root path
+baseURL = "https://basilpapadimas.github.io/website" # website root path
 enableRobotsTXT = true             # /robots.txt
 languageCode = "en"                # content language
 paginate = 5                       # number of posts each page
@@ -30,7 +30,7 @@ name = "About"
 url = "/"
 weight = 1
 [[menu.main]]
-identifier = "archives"
+identifier = "blog"
 name = "Blog"
 url = "/posts/"
 weight = 2
@@ -67,6 +67,3 @@ use = "katex"  # katex or mathjax
 [params.outdated]
 enable = false # whether to display warnings for outdated posts
 limit = 1000   # days between last modified time and outdated time
-# warning to be displayed
-warning = "⚠️ It has been <i>%d</i> days since the last update, the content of the article may be outdated."
-
